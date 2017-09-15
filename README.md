@@ -13,10 +13,10 @@ Notes
 -----
 -The program showcases many aspects and tools of the C++ language; These include:  
  -Doubly linked lists to store seating information
- -The use of overloaded operators to provide linked lists "indexing"
- -Classes
- -Structs to store sales information
- -Input validation
- -Random file manipulation
- -String parsing
+  -The use of overloaded operators to provide linked lists "indexing"
+   -Classes
+    -Structs to store sales information
+     -Input validation
+      -Random file manipulation
+       -String parsing
  
