@@ -23,9 +23,9 @@ Notes
   -In the .txt files, #'s represent available seats and .'s represent reserved seats.  
   - The best available seats are consecutive for multiple seats. The best position is evaluated by the distance from the center. The center is evaluated using integer division.
   - The sales report only reflects the reservations made during the current run of the program.  
-  
-Instructions
-------------
 
+Documentation
+-------------
+http://www.cplusplus.com/doc/tutorial/
 
  
