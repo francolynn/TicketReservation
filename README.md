@@ -19,4 +19,6 @@ Notes
   -Input validation  
   -Random file manipulation  
   -String parsing  
+The best available seats are consecutive for multiple seats. The best position is evaluated by the distance from the center. The center is evaluated using integer division.
+
  
