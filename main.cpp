@@ -1,4 +1,4 @@
-//Author: Franco Lynn
+//Author: Franco Lynn, Sriram Vaandakar, Noel Johnson, Jayden Brown
 //Date:4/29/2017
 //Description: This program will allow users to view seating availability in multiple auditoriums
 //			   book seats, and view a financial report. The majority of work in this program is done through doubly linked lists.
