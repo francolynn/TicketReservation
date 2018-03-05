@@ -1,9 +1,9 @@
 # TicketReservation
 This C++ program allows user to view seating chart, reserve tickets and view the sales report.
 
-Author: Franco Lynn  
-Date:   5/2/17
-Language: C++
+Authors:   Franco Lynn, Sriram Vaandakar, Noel Johnson, Jayden Brown 
+Date:      5/2/17
+Language:  C++
 
 Description
 -----------
