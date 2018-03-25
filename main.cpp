@@ -1,12 +1,10 @@
-//Author: Franco Lynn, Sriram Vaandakar, Noel Johnson, Jayden Brown
-//Date:4/29/2017
-//Description: This program will allow users to view seating availability in multiple auditoriums
-//			   book seats, and view a financial report. The majority of work in this program is done through doubly linked lists.
-//Overloaded operators used:
-//LinkedList += operator: Lines 158, 469, 653
-//LinkedList [] operator: Lines 448, 450, 518, 520, 523, 576, 582, 597, 624, 647-649, 676, 678, 701
-//ResNode input << operator: Not used
-//ResNode output >> operator: 704, 701
+/**
+   Ticket Reservation System
+   Purpose: Allows users to view seating availability in multiple auditoriums, book seats, and view a financial report
+
+    @author Franco Lynn, Sriram Vaandakar, Noel Johnson, Jayden Brown
+    @version 1.0 4/29/2017
+*/
 
 #include<iostream>
 #include<iomanip>
